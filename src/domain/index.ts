@@ -9,3 +9,5 @@ export * from './use-case/todo/get-todo';
 export * from './use-case/todo/delete-todo';
 export * from './use-case/todo/update-todo';
 export * from './use-case/todo/get-todos';
+
+export * from './errors/custom.error';
